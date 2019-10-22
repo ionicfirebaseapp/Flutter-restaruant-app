@@ -49,9 +49,9 @@ Read the [Getting started page](https://docs.ionicfirebaseapp.com/flutterapp/) f
 </p>
 
 ## Video Installation Guide 
-| Ionic Restaurant app  | Restaurant Admin CMS |
+| Flutter Restaurant App Installation Guide  | Flutter Restaurant App Features |
 | ------------- | ------------- |
-| [![IONIC FIREBASE RESTAURANT MOBILE APP INSTALLATION GUIDE](https://res.cloudinary.com/dlx35qw0l/image/upload/v1568114294/restaurant-thumbnail_dv7emx.jpg)](http://www.youtube.com/watch?v=vyt5fe5UON4) | [![FIREBASE CMS INSTALLATION GUIDE](https://res.cloudinary.com/dlx35qw0l/image/upload/v1568114293/Youtube-thumbnail_fzudsy.jpg)](https://www.youtube.com/watch?v=DdW09PWLBFk)|
+| [![Flutter RESTAURANT MOBILE APP INSTALLATION GUIDE](https://res.cloudinary.com/dzu7tvexv/image/upload/v1571634515/pt5am2tyr0agpz8tsm9q.jpg)](https://youtu.be/FA87HkVvXyM) | [![Flutter Restaurant Mobile App Features](https://res.cloudinary.com/dzu7tvexv/image/upload/v1571634250/hlklvunu0inswdwa90kq.jpg)](https://youtu.be/5JIlTG781Co)|
 
 ## Mobile app Features
 
