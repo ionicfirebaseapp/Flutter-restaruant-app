@@ -123,6 +123,10 @@ Have a bug or a feature request. If your problem or idea is not addressed yet, [
 | ------------- | ------------- |
 | <a href="https://www.ionicfirebaseapp.com/products/ionic-3-restaurant-mobile-app" rel="FREE Restaurant Mobile App">![FREE Restaurant Mobile App](https://res.cloudinary.com/dzu7tvexv/image/upload/w_590,h_300,f_auto,q_auto/v1566369745/tepubukeji3u5qpr7o3p.jpg) </a> |  <a href="https://www.ionicfirebaseapp.com/products/flutter-mobile-app" rel="Free Flutter Todo Mobile app UI"> ![Free Flutter Todo Mobile app UI](https://res.cloudinary.com/dzu7tvexv/image/upload/w_590,h_300,f_auto,q_auto/v1540272427/y3sogf3if3ostylxr95y.jpg) </a>| 
 
+## About This Application
+
+Flutter Restaurant Mobile app work across IOS and Android platform and develop with Google Flutter Framework that written with Dart Language. Flutter Mobile app performance best compared to any others due to its fast development and cross-platform nature. This app Ready to use and comes with API integrated. You can integrate very quickly with our NodeJS backend dashboard. It's effortless to manage all the app content like Categories, Menu, Orders, Push Notification to users or manage the Offers and give rewards to users on each purchase.
+
 ## Documentation
 
 ionicfirebase restarurant documentation, included in this repo in the root directory, is built with [ionic](https://ionicframework.com/) and publicly hosted on ionicfirebaseapp docs Pages at <https://docs.ionicfirebaseapp.com/ionicrestaurantapp/>.
