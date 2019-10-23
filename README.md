@@ -73,8 +73,6 @@ Read the [Getting started page](https://docs.ionicfirebaseapp.com/flutterapp/) f
 
 ## What's included
 
-Within the download you'll get flutter restaurant app source code. Admin Dashboard to manage Menu or Orders can purchase as different package. 
-
 You can Buy the Admin Dashboard from [ionicfirebaseapp](https://www.ionicfirebaseapp.com/products/node-JS-restaurant-backend-dashboard)
 
 <p align="center">
@@ -95,18 +93,6 @@ You can Buy the Admin Dashboard from [ionicfirebaseapp](https://www.ionicfirebas
 10. Setting and Manage Blog/Articles
 11. Many more...
 
-## Restaurant Web app 
-
-Restaruant web app develop with angular 7 and integrated with both backend firebase and nodeJs version we have. You can check more details about both the webapp.
-
-<p align="center">
-  <a href="https://www.ionicfirebaseapp.com/products/web-restaurant-nodeJs-app">
-    <img src="https://res.cloudinary.com/dzu7tvexv/image/upload/f_auto,q_auto/v1566464628/x6o3kyqftwqeu59na3jy.jpg" alt="ionicfirebaseapp restaruant nodejs backend">
-  </a>
-</p>
-
-
-
 ## Bugs and feature requests
 
 Have a bug or a feature request. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/ionicfirebaseapp/ionic-3-restaurantapp/issues/new).
@@ -123,7 +109,7 @@ Have a bug or a feature request. If your problem or idea is not addressed yet, [
 | ------------- | ------------- |
 | <a href="https://www.ionicfirebaseapp.com/products/ionic-3-restaurant-mobile-app" rel="FREE Restaurant Mobile App">![FREE Restaurant Mobile App](https://res.cloudinary.com/dzu7tvexv/image/upload/w_590,h_300,f_auto,q_auto/v1566369745/tepubukeji3u5qpr7o3p.jpg) </a> |  <a href="https://www.ionicfirebaseapp.com/products/flutter-mobile-app" rel="Free Flutter Todo Mobile app UI"> ![Free Flutter Todo Mobile app UI](https://res.cloudinary.com/dzu7tvexv/image/upload/w_590,h_300,f_auto,q_auto/v1540272427/y3sogf3if3ostylxr95y.jpg) </a>| 
 
-## About This Application
+## More About This Application
 
 Flutter Restaurant Mobile app work across IOS and Android platform and develop with Google Flutter Framework that written with Dart Language. Flutter Mobile app performance best compared to any others due to its fast development and cross-platform nature. This app Ready to use and comes with API integrated. You can integrate very quickly with our NodeJS backend dashboard. It's effortless to manage all the app content like Categories, Menu, Orders, Push Notification to users or manage the Offers and give rewards to users on each purchase.
 
